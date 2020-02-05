@@ -1,2 +1,2 @@
 # Flutter
-掘金手册之Flutter完全shouce学习笔记
+掘金手册之Flutter完全手册学习笔记
